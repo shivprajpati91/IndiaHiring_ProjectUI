@@ -1,16 +1,3 @@
-# indiahiring
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (303)](https://github.com/user-attachments/assets/4025cfc9-5cd7-4e94-970e-1720365debed)
+![Screenshot (302)](https://github.com/user-attachments/assets/3ace7bdd-9025-41a8-98b3-6c8f5a8c703f)
+![Screenshot (301)](https://github.com/user-attachments/assets/f521c0c7-1479-4338-8122-bcbbe2d96032)
